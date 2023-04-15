@@ -1,0 +1,6 @@
+pip install pandas
+pip install numpy
+pip install duckdb
+pip install argparse
+pip install fuzzywuzzy python-Levenshtein
+pip install shapely geopandas
